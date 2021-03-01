@@ -12,6 +12,29 @@ const createDie = (value) => {
     return {
         value: value
     }
+
+    let diestring = "Unknown";
+    switch (this.value) {
+        case 1:
+            diestring = "\u2680";
+            break;
+        case 2:
+            diestring = "\u2681";
+            break;
+        case 3:
+            dieString = "\u2682";
+            break;
+        case 4:
+            dieString = "\u2683";
+            break;
+        case 5:
+            dieString = "\u2684";
+            break;
+        case 6:
+            dieString = "\u2685";
+            break;
+    }
+    return this.diestring
 }
 
 for (let i = 0; i < 10; i++) {
