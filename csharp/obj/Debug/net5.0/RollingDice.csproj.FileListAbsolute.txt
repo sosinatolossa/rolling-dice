@@ -1,0 +1,16 @@
+C:\Users\16157\workspace\rolling-dice\csharp\bin\Debug\net5.0\RollingDice.exe
+C:\Users\16157\workspace\rolling-dice\csharp\bin\Debug\net5.0\RollingDice.deps.json
+C:\Users\16157\workspace\rolling-dice\csharp\bin\Debug\net5.0\RollingDice.runtimeconfig.json
+C:\Users\16157\workspace\rolling-dice\csharp\bin\Debug\net5.0\RollingDice.runtimeconfig.dev.json
+C:\Users\16157\workspace\rolling-dice\csharp\bin\Debug\net5.0\RollingDice.dll
+C:\Users\16157\workspace\rolling-dice\csharp\bin\Debug\net5.0\ref\RollingDice.dll
+C:\Users\16157\workspace\rolling-dice\csharp\bin\Debug\net5.0\RollingDice.pdb
+C:\Users\16157\workspace\rolling-dice\csharp\obj\Debug\net5.0\RollingDice.csprojAssemblyReference.cache
+C:\Users\16157\workspace\rolling-dice\csharp\obj\Debug\net5.0\RollingDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16157\workspace\rolling-dice\csharp\obj\Debug\net5.0\RollingDice.AssemblyInfoInputs.cache
+C:\Users\16157\workspace\rolling-dice\csharp\obj\Debug\net5.0\RollingDice.AssemblyInfo.cs
+C:\Users\16157\workspace\rolling-dice\csharp\obj\Debug\net5.0\RollingDice.csproj.CoreCompileInputs.cache
+C:\Users\16157\workspace\rolling-dice\csharp\obj\Debug\net5.0\RollingDice.dll
+C:\Users\16157\workspace\rolling-dice\csharp\obj\Debug\net5.0\ref\RollingDice.dll
+C:\Users\16157\workspace\rolling-dice\csharp\obj\Debug\net5.0\RollingDice.pdb
+C:\Users\16157\workspace\rolling-dice\csharp\obj\Debug\net5.0\RollingDice.genruntimeconfig.cache
