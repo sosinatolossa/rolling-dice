@@ -9,39 +9,28 @@ const Roll = (min, max) => {
 }
 
 const createDie = (value) => {
-    return {
-        value: value
-    }
 
-    let diestring = "Unknown";
-    switch (this.value) {
+    switch (value) {
         case 1:
-            diestring = "\u2680";
-            break;
+            return "\u2680";
         case 2:
-            diestring = "\u2681";
-            break;
+            return "\u2681";
         case 3:
-            dieString = "\u2682";
-            break;
+            return "\u2682";
         case 4:
-            dieString = "\u2683";
-            break;
+            return "\u2683";
         case 5:
-            dieString = "\u2684";
-            break;
+            return "\u2684";
         case 6:
-            dieString = "\u2685";
-            break;
+            return "\u2685";
     }
-    return this.diestring
 }
 
 for (let i = 0; i < 10; i++) {
     const die1 = Roll()
     const die2 = Roll()
 
-    let message = `${die1} + ${die2} = ${die1 + die2}`
+    let message = `${createDie(die1)} + ${createDie(die2)} = ${die1 + die2}`
     if (die1 === die2) {
         message += " DOUBLES!"
     }
